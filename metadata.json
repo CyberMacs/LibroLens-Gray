@@ -1,0 +1,6 @@
+{
+  "name": "LibroLens Gray - PWA",
+  "description": "A book sommelier application that provides personalized reading recommendations based on a user's taste profile, powered by the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
